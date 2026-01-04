@@ -1,0 +1,8 @@
+﻿  Khaila Praktikum 12.cpp
+C:\Users\Rein\Documents\Coding\C++\Khaila Praktikum 12\Khaila Praktikum 12\Khaila Praktikum 12.cpp(10,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Tugas Praktikum 12.cpp
+C:\Users\Rein\Documents\Coding\C++\Khaila Praktikum 12\Khaila Praktikum 12\Tugas Praktikum 12.cpp(10,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rein\Documents\Coding\C++\Khaila Praktikum 12\Khaila Praktikum 12\Tugas Praktikum 12.cpp(15,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+Tugas Praktikum 12.obj : error LNK2005: main already defined in Khaila Praktikum 12.obj
+C:\Users\Rein\Documents\Coding\C++\Khaila Praktikum 12\x64\Debug\Khaila Praktikum 12.exe : fatal error LNK1169: one or more multiply defined symbols found

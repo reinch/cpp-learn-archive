@@ -1,0 +1,3 @@
+﻿  c++.cpp
+C:\Users\Rein\Documents\Coding\C++\UAS C++\UAS C++\c++.cpp(6,49): warning C4101: 'waktu_tempuh': unreferenced local variable
+  UAS C++.vcxproj -> C:\Users\Rein\Documents\Coding\C++\UAS C++\x64\Debug\UAS C++.exe

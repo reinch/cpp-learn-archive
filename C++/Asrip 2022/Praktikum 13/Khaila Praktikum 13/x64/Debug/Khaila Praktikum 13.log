@@ -1,0 +1,8 @@
+﻿  khaila praktikum 13.cpp
+C:\Users\Rein\Documents\Coding\C++\Praktikum 13\Khaila Praktikum 13\khaila praktikum 13.cpp(5,15): error C2065: 'jmlkamar': undeclared identifier
+C:\Users\Rein\Documents\Coding\C++\Praktikum 13\Khaila Praktikum 13\khaila praktikum 13.cpp(6,30): error C2065: 'jmlkamar': undeclared identifier
+C:\Users\Rein\Documents\Coding\C++\Praktikum 13\Khaila Praktikum 13\khaila praktikum 13.cpp(8,7): warning C4552: '>>': result of expression not used
+C:\Users\Rein\Documents\Coding\C++\Praktikum 13\Khaila Praktikum 13\khaila praktikum 13.cpp(9,8): warning C4552: '<<': result of expression not used
+C:\Users\Rein\Documents\Coding\C++\Praktikum 13\Khaila Praktikum 13\khaila praktikum 13.cpp(22,2): error C2660: 'penghuni': function does not take 1 arguments
+C:\Users\Rein\Documents\Coding\C++\Praktikum 13\Khaila Praktikum 13\khaila praktikum 13.cpp(4,6): message : see declaration of 'penghuni'
+C:\Users\Rein\Documents\Coding\C++\Praktikum 13\Khaila Praktikum 13\khaila praktikum 13.cpp(22,2): message : while trying to match the argument list '(overloaded-function)'

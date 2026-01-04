@@ -1,0 +1,9 @@
+﻿  c++.cpp
+C:\Users\Rein\Documents\Coding\C++\UAS C++\UAS C++\c++.cpp(17,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rein\Documents\Coding\C++\UAS C++\UAS C++\c++.cpp(6,42): warning C4101: 'waktu_tempuh': unreferenced local variable
+  Generating code
+  1 of 18 functions ( 5.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  UAS C++.vcxproj -> C:\Users\Rein\Documents\Coding\C++\UAS C++\x64\Release\UAS C++.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Rein\Documents\Coding\C++\Rama\Rama\Source.cpp(17,3): error C3861: 'getline': identifier not found
+C:\Users\Rein\Documents\Coding\C++\Rama\Rama\Source.cpp(23,2): error C3872: '0xa0': this character is not allowed in an identifier
+C:\Users\Rein\Documents\Coding\C++\Rama\Rama\Source.cpp(23,2): error C2065: 'return 0': undeclared identifier

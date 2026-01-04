@@ -1,0 +1,3 @@
+﻿  test pertama.cpp
+C:\Users\Rein\Documents\Coding\C++\Project1\Project1\test pertama.cpp(12,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\Rein\Documents\Coding\C++\Project1\x64\Debug\Project1.exe

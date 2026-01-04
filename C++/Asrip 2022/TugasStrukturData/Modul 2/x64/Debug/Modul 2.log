@@ -1,0 +1,4 @@
+﻿  latiansd.cpp
+C:\Users\Rein\Documents\Coding\C++\TugasStrukturData\Modul 2\latiansd.cpp(6,9): warning C4101: 'j': unreferenced local variable
+C:\Users\Rein\Documents\Coding\C++\TugasStrukturData\Modul 2\latiansd.cpp(6,6): warning C4101: 'i': unreferenced local variable
+  Modul 2.vcxproj -> C:\Users\Rein\Documents\Coding\C++\TugasStrukturData\x64\Debug\Modul 2.exe

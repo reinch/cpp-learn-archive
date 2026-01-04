@@ -1,0 +1,4 @@
+﻿  Tugas Praktek Modul 9.cpp
+C:\Users\Rein\Documents\Coding\C++\Tugas Praktek Modul 9\Tugas Praktek Modul 9\Tugas Praktek Modul 9.cpp(13,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rein\Documents\Coding\C++\Tugas Praktek Modul 9\Tugas Praktek Modul 9\Tugas Praktek Modul 9.cpp(18,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rein\Documents\Coding\C++\Tugas Praktek Modul 9\Tugas Praktek Modul 9\Tugas Praktek Modul 9.cpp(12): error C4700: uninitialized local variable 'luasAlas' used
